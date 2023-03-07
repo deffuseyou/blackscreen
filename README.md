@@ -11,4 +11,4 @@ It was originally designed as a prank application, but I found it useful for wat
  
 NOTE: Sometimes it can be hard to close it, so I reccomend using task manager on Windows to close the process, or to use \`killall BlackScreen\`.
 
- &ndash; Originally by [michaelsboost](https://www.deviantart.com/michaelsboost/about)
+ &ndash; Originally by [michaelsboost](https://sourceforge.net/u/mikethedj4/)
