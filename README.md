@@ -8,4 +8,6 @@ The site for it is a deviant art page here > https://www.deviantart.com/michaels
 It was originally designed as a prank application, but I found it useful for watching movies with multiple monitors, to blank out the side ones, \
  and it could also be used for things like stuck pixel detection, or for cleaning the screen.
  
- NOTE: Sometimes it can be hard to close it, so I reccomend using task manager on Windows to close the process, or to use \`killall BlackScreen\`.
+NOTE: Sometimes it can be hard to close it, so I reccomend using task manager on Windows to close the process, or to use \`killall BlackScreen\`.
+
+ &ndash; Originally by michaelsboost
