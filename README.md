@@ -1,4 +1,5 @@
-# BlackScreen
+# BlackScreen &nbsp;<img src="https://raw.githubusercontent.com/Alex313031/BlackScreen/main/logo.png" width="48">
+
 Simple, cross platform program to blank a screen (turn all pixels black to #000000)
 
 This is a fork and continuation of this > https://sourceforge.net/projects/black-screen/
