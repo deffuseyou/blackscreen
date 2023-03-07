@@ -1,0 +1,12 @@
+C:\Users\Speed\AppData\Local\Temporary Projects\BlackScreen\bin\Debug\BlackScreen.exe
+C:\Users\Speed\AppData\Local\Temporary Projects\BlackScreen\bin\Debug\BlackScreen.pdb
+C:\Users\Speed\AppData\Local\Temporary Projects\BlackScreen\bin\Debug\BlackScreen.xml
+C:\Users\Speed\AppData\Local\Temporary Projects\BlackScreen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Speed\AppData\Local\Temporary Projects\BlackScreen\obj\x86\Debug\BlackScreen.Form1.resources
+C:\Users\Speed\AppData\Local\Temporary Projects\BlackScreen\obj\x86\Debug\BlackScreen.Resources.resources
+C:\Users\Speed\AppData\Local\Temporary Projects\BlackScreen\obj\x86\Debug\BlackScreen.exe
+C:\Users\Speed\AppData\Local\Temporary Projects\BlackScreen\obj\x86\Debug\BlackScreen.xml
+C:\Users\Speed\AppData\Local\Temporary Projects\BlackScreen\obj\x86\Debug\BlackScreen.pdb
+C:\Users\Speed\documents\visual studio 2010\Projects\BlackScreen\BlackScreen\obj\x86\Debug\BlackScreen.exe
+C:\Users\Speed\documents\visual studio 2010\Projects\BlackScreen\BlackScreen\obj\x86\Debug\BlackScreen.xml
+C:\Users\Speed\documents\visual studio 2010\Projects\BlackScreen\BlackScreen\obj\x86\Debug\BlackScreen.pdb

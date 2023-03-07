@@ -1,0 +1,9 @@
+C:\Users\Speed\documents\visual studio 2010\Projects\BlackScreen\BlackScreen\bin\Release\BlackScreen.exe
+C:\Users\Speed\documents\visual studio 2010\Projects\BlackScreen\BlackScreen\bin\Release\BlackScreen.pdb
+C:\Users\Speed\documents\visual studio 2010\Projects\BlackScreen\BlackScreen\bin\Release\BlackScreen.xml
+C:\Users\Speed\documents\visual studio 2010\Projects\BlackScreen\BlackScreen\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Speed\documents\visual studio 2010\Projects\BlackScreen\BlackScreen\obj\x86\Release\BlackScreen.BS.resources
+C:\Users\Speed\documents\visual studio 2010\Projects\BlackScreen\BlackScreen\obj\x86\Release\BlackScreen.Resources.resources
+C:\Users\Speed\documents\visual studio 2010\Projects\BlackScreen\BlackScreen\obj\x86\Release\BlackScreen.exe
+C:\Users\Speed\documents\visual studio 2010\Projects\BlackScreen\BlackScreen\obj\x86\Release\BlackScreen.xml
+C:\Users\Speed\documents\visual studio 2010\Projects\BlackScreen\BlackScreen\obj\x86\Release\BlackScreen.pdb
