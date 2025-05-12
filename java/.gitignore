@@ -1,0 +1,8 @@
+/build/
+/dist/
+*.class
+*.jar
+*.exe
+*.app
+*.dmg
+.DS_Store
