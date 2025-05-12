@@ -10,4 +10,4 @@ Perfect for live productions, projection setups, and seamless media transitions 
 - Multi-monitor support  
 - Ideal for professional AV workflows and clean content delivery
 
-This is an actively maintained fork of the original [BlackScreen](https://sourceforge.net/projects/black-screen/), with improvements for modern use.
+This is an actively maintained fork of the original [BlackScreen](https://sourceforge.net/projects/black-screen/).
