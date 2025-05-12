@@ -1,14 +1,13 @@
-# BlackScreen &nbsp;<img src="https://raw.githubusercontent.com/Alex313031/BlackScreen/main/logo.png" width="48">
+# blackscreen
 
-Simple, cross platform program to blank a screen (turn all pixels black to #000000)
+**blackscreen** is a minimal, cross-platform tool designed for AV technicians and presentation professionals. It instantly displays a **true black screen** (`#000000`) to hide all operating system elements and distractions.
 
-This is a fork and continuation of this > https://sourceforge.net/projects/black-screen/
+Perfect for live productions, projection setups, and seamless media transitions – blackscreen ensures that audiences see only what you want them to see, exactly when you want them to see it.
 
-The site for it is a deviant art page here > https://www.deviantart.com/michaelsboost/art/BlackScreen-184509075
+### Features:
+- Fullscreen pure black output with no borders or OS interface  
+- Lightweight and stable  
+- Multi-monitor support  
+- Ideal for professional AV workflows and clean content delivery
 
-It was originally designed as a prank application, but I found it useful for watching movies with multiple monitors, to blank out the side ones, \
- and it could also be used for things like stuck pixel detection, or for cleaning the screen.
- 
-NOTE: Sometimes it can be hard to close it, so I reccomend using task manager on Windows to close the process, or to use \`killall BlackScreen\`.
-
- &ndash; Originally by [michaelsboost](https://sourceforge.net/u/mikethedj4/)
+This is an actively maintained fork of the original [BlackScreen](https://sourceforge.net/projects/black-screen/), with improvements for modern use.
